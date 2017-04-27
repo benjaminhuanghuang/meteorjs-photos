@@ -28,3 +28,17 @@
 
 ## Run app
     $ meteor
+
+## Add router
+    $ meteor add iron:router 
+    
+## Add bootstrap
+    $ meteor add twbs:bootstrap
+
+## Add gridfs support
+    $ meteor add cfs:standard-packages
+    $ meteor add cfs:gridfs
+
+
+## Add toastr package
+    $ meteor add cfs:standard-packages
