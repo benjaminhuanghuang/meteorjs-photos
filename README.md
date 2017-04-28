@@ -41,4 +41,4 @@
 
 
 ## Add toastr package
-    $ meteor add cfs:standard-packages
+    $ meteor add chrismbeckett:toastr
