@@ -23,3 +23,9 @@
         return false;
     }
  });
+
+ Template.photos.helpers({
+    photos:function(){
+        return Photos.find();
+    }
+ });
