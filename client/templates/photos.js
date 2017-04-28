@@ -29,3 +29,7 @@
         return Photos.find();
     }
  });
+
+Template.photos.onRendered(function(){
+    Router.current().render(Template.photos).data();
+});
